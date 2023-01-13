@@ -1,3 +1,5 @@
+//counts how many letters in the string
+
 let countLetters = function(string) {
   let countLetters = {};
   for (let letter of string) {
