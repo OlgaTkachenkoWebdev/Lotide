@@ -1,3 +1,5 @@
+//returns fun message when arrays are equal
+
 const assertArraysEqual = function(actual, expected) {
   if (actual.length !== expected.length) {
     console.log(`🛑🛑🛑Assertion Failed:  ${actual} === ${expected}`);
