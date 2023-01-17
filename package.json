@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@olgatkachenko/lotide",
   "version": "1.0.0",
   "main": "assertArraysEqual.js",
   "directories": {
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/woodenonesie/Lotide.git"
   },
-  "author": "Olga Tkachenko",
+  "author": {
+    "name" : "Olga Tkachenko"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/woodenonesie/Lotide/issues"
@@ -107,5 +109,5 @@
     "yargs-unparser": "^2.0.0",
     "yocto-queue": "^0.1.0"
   },
-  "description": ""
+  "description": "library that published for learning purposes"
 }
