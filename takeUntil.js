@@ -1,3 +1,5 @@
+// returns a part of an array before callback is true
+
 const takeUntil = function (array, callback) {
   let newArray = [];
   for (let item of array) {
