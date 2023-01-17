@@ -10,6 +10,7 @@ const without = function(source, itemsToRemove) {
   return newArray;
 };
 
+module.exports = without;
 // const assertArraysEqual = function(actual, expected) {
 //   if (actual.length !== expected.length) {
 //     console.log(`🛑🛑🛑Assertion Failed:  ${actual} === ${expected}`);
