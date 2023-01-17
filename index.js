@@ -12,15 +12,15 @@ const countLetters = require('./countLetters');
 
 
 module.exports = {
-  head: head,
-  tail: tail,
-  middle: middle,
-  without: without,
-  takeUntil: takeUntil,
-  map: map,
-  letterPosition: letterPosition,
-  findKeyByValue: findKeyByValue,
-  findKey: findKey,
-  countOnly: countOnly,
-  countLetters: countLetters
+  head,
+  tail,
+  middle,
+  without,
+  takeUntil,
+  map,
+  letterPosition,
+  findKeyByValue,
+  findKey,
+  countOnly,
+  countLetters
 };
